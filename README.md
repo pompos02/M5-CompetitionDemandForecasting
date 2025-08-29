@@ -2,6 +2,27 @@
 
 This project, based on the thesis "Demand Forecasting in Retail" by Γιάννης Καραβέλλας, explores various machine learning models for predicting demand in the retail sector. The primary dataset used is the M5-Competition Dataset, which contains sales data from Walmart.
 
+---
+
+## 📖 Additional Documentation
+
+If you want to just see the results or the dataset analysis read the following docs:
+### [**Dataset and Preprocessing Guide**](./Dataset_and_Preprocessing.md)
+> **Comprehensive analysis of the M5 dataset structure, preprocessing pipeline, and feature engineering**
+> - Detailed dataset exploration and hierarchical structure analysis
+> - Complete preprocessing pipeline documentation  
+> - Advanced feature engineering techniques and statistical analysis
+> - Data quality assessment and computational considerations
+
+### [**Results and Analysis Report**](./Results_and_Analysis.md)
+> **In-depth model performance evaluation and comparative analysis**
+> - Comprehensive performance comparison across all models
+> - Detailed error distribution analysis with visualizations
+> - Model interpretability analysis using SHAP values
+> - Competitive benchmarking against M5 competition results
+> - Store and category-specific performance insights
+
+---
 ## Table of Contents
 
 *   [Motivation](#motivation)
@@ -20,6 +41,7 @@ This project, based on the thesis "Demand Forecasting in Retail" by Γιάννη
 *   [Author](#author)
 *   [License](#license)
 *   [Acknowledgements](#acknowledgements)
+
 
 ## Motivation
 
