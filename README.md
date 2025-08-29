@@ -228,12 +228,6 @@ Detailed quantitative results, including MAE and RMSE metrics for each model (Ex
 
 *   **Γιάννης Καραβέλλας** (Thesis Author)
 
-
-
-## License
-
-(Please specify the license for your project here, e.g., MIT, Apache 2.0. If no license is specified, it is typically assumed to be proprietary unless otherwise stated in the repository.)
-
 ## Acknowledgements
 
 *   The organizers of the M5 Forecasting Accuracy competition for providing the dataset and a challenging benchmark.
